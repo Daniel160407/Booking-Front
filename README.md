@@ -1,8 +1,11 @@
-# React + Vite
+# Booking.ge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+It is a frontend side of this project, you can choose hotel and then the room which is not reserved and reserve it.
 
-Currently, two official plugins are available:
+## Screenshots
+![App Screenshot](public/screenshots/screenshot1.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](public/screenshots/screenshot2.jpg)
+
+![App Screenshot](public/screenshots/screenshot3.jpg)
